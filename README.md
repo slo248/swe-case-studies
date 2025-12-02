@@ -5,14 +5,12 @@ Case studies of problems encountered and solved during my engineering career —
 ---
 
 ## Table of Contents
-- [SWE Case Studies](#swe-case-studies)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Case Study Format](#case-study-format)
-  - [How to Use](#how-to-use)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+- [Introduction](#introduction)
+- [Case Study Format](#case-study-format)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
