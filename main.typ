@@ -57,3 +57,4 @@
 ]
 
 #pagebreak()
+#include "sync2async/main.typ"
